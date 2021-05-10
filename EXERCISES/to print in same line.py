@@ -1,0 +1,1 @@
+# to print in same line use print(x, end="")
